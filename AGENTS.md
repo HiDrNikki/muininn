@@ -1,5 +1,7 @@
 # ./muininn/AGENTS.md
 
+You should also check in ROADMAP.md to get an idea of the scope, scale, and progress of this project.
+
 The project directory has the following structure:
 
 muininn/
@@ -88,4 +90,5 @@ muininn/
 ├─ LICENSE
 ├─ pyproject.toml
 ├─ README.md
+├─ ROADMAP.md
 └─ setup.py
