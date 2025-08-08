@@ -1,0 +1,11 @@
+.venv/
+.pckgr/
+OLD*
+__pycache__/
+tests/
+.vscode/
+build/
+dist/
+*.egg-info/
+*.patch
+*.txt

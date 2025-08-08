@@ -1,0 +1,21 @@
+[build-system]
+requires = [
+    "setuptools>=61.0",
+    "wheel",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "muininn"
+version = "0.0.1"
+description = ""
+authors = [
+    { name = "Nichola Walch", email = "littler.compression@gmail.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+muininn = "muininn.cli:main"
